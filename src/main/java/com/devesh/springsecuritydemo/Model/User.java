@@ -3,8 +3,8 @@ package com.devesh.springsecuritydemo.Model;
 import lombok.*;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 
-@AllArgsConstructor
-@NoArgsConstructor
+//@AllArgsConstructor
+//@NoArgsConstructor
 @Getter
 @Setter
 @ToString
